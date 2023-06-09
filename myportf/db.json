@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name":"Name",
+      "title": "Frontend Developer",
+      "author": "typicode"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "skill": "React js"
+       
+    },
+    {
+      "id": 2,
+      "skill": "JavaScript"
+       
+    },
+    {
+      "id": 3,
+      "skill": "HTML"
+       
+    },
+    {
+      "id": 4,
+      "skill": "CSS"
+       
+    },
+    {
+      "id": 5,
+      "skill": "Redux"
+       
+    },
+    {
+      "id": 6,
+      "skill": "Material UI"
+       
+    }
+  ],
+
+  "services":[
+    {
+      "id": 1,
+      "service": "Web Development"
+       
+    },
+    {
+      "id": 2,
+      "service": "UI/UX Desing"
+       
+    },
+    {
+      "id": 3,
+      "service": "Digital Marketing"
+       
+    },
+    {
+      "id": 4,
+      "service": "Software Developmet"
+       
+    },
+    {
+      "id": 5,
+      "service": "Redux"
+       
+    },
+    {
+      "id": 6,
+      "service": "Material UI"
+       
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
